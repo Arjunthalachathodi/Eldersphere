@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "846269150802",
+    "project_id": "eldersphere-c8d1d",
+    "storage_bucket": "eldersphere-c8d1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846269150802:android:7fb913ef79d3d4043d518b",
+        "android_client_info": {
+          "package_name": "com.ralfiz.eldersphere"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2O-7Kw8LzswsVvcautJdnjjI2TsfY3fg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
